@@ -1,7 +1,7 @@
 # ToIco
 The Tool is programmed in Python which is constantly updated.（这个工具是用Python语言编写的并且会持续更新）
 # Instructions
-**1.Please do not unzip the tool on the desktop, or it will fail to run（1.请不要将工具解压在桌面上，否则会无法运行）**<br>
+**1.Please do not unzip the tool on the desktop, or it will fail to run（请不要将工具解压在桌面上，否则会无法运行）**<br>
 2. Support conversion of PNG and JPEG formats to ICO.（支持PNG、JPEG格式转为ICO图标）<br>
 3. You can select a single graphic file for processing or a graphic folder for batch processing.（可以选择单个图形文件，也可以选择图形文件夹进行批量处理）<br>
 4. You can select common size, magnification, custom width and height to scale the icon.（可以选择常见尺寸、倍率、自定义宽和高对ICO图标进行缩放）<br>
