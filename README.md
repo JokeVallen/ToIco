@@ -14,5 +14,6 @@ The Tool is programmed in Python which is constantly updated.（这个工具是�
 (5) Fixed an unspecified minimum and maximum window zoom.（修复了窗口缩放最小值和最大值未限定的问题）<br>
 (6) Fixed a known problem that caused pictures to fail to convert.（修复了已知导致图片无法转换的问题）<br>
 (7) Fixed the problem of successful conversion prompt.（修复了转换成功提示的问题） <br>
-(8) Added the function of converting to WMF pictures.（增加了转WMF图片的功能）<br>
-(9) Added the function of selecting multiple sizes.（增加了选择多个尺寸的功能）
+(8) Fixed a problem with the maximum and minimum limits for custom sizes.（修复了自定义尺寸最大最小限定值问题）<br>
+(9) Added the function of converting to WMF pictures.（增加了转WMF图片的功能）<br>
+(10) Added the function of selecting multiple sizes.（增加了选择多个尺寸的功能）
